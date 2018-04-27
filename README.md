@@ -1,10 +1,10 @@
-# React-Express-Boilerplate
-Boilerplate for an react+express app, tailored to my needs
+# React-Express-Boilerplate 
+Boilerplate for an react+express app, tailored to my needs.
 
 
 ## Usage
 
-Step 1: clone the repo
+Step 1: clone the repository.
 
 
 ```
