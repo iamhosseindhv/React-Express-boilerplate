@@ -10,11 +10,16 @@
   "license": "MIT",
   "scripts": {
     "app": "cd app && npm start",
-    "server": "nodemon server.js",
+    "server": "cd server && nodemon www",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run app\""
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
   },
   "devDependencies": {
     "concurrently": "^3.5.0",
