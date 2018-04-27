@@ -29,3 +29,9 @@ Your app is now running on port 3000.
 
 
 Open the app: `http://localhost:3000/`
+
+
+## License
+
+This project is licensed under the MIT license, Copyright (c) 2017 Maximilian
+Stoiber. For more information see `LICENSE.md`.
