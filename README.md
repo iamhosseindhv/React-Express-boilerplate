@@ -18,7 +18,7 @@ Step 2: install dependencies in the root of the project and `app` directory.
 cd app && npm install && cd ../ && npm install
 ```
 
-Step 3: now that you have all the dependencies, start the server and client at the same time (from the root of the project):
+Step 3: now that you have all the dependencies, start both the server and client at the same time (from the root of the project) by following command:
 
 
 ```
