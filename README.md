@@ -1,5 +1,5 @@
 # React-Express-Boilerplate 
-Boilerplate for an react+express app, tailored to my needs.
+Boilerplate for a react+express app, tailored to my needs.
 
 
 ## Usage
